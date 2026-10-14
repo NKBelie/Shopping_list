@@ -16,13 +16,13 @@ A simple Flutter shopping list application built while learning Dart and Flutter
 ### 2. Adding an Item
 
 <!-- Add your add-item screenshot here -->
-![](Screenshot/Make it React.png)
-![](Screenshot/Type your own items.png)
+![](https://github.com/NKBelie/Shopping_list/blob/main/Screenshot/Make%20it%20React.png)
+![](https://github.com/NKBelie/Shopping_list/blob/main/Screenshot/Type%20your%20own%20items.png)
 
 ### 3. Item Marked as Bought
 
 <!-- Add your bought-item screenshot here -->
-![](Screenshot/Mark as Bought.png)
+![](https://github.com/NKBelie/Shopping_list/blob/main/Screenshot/Mark%20as%20Bought.png)
 
 ### 4. Deleting an Item
 
@@ -32,7 +32,7 @@ A simple Flutter shopping list application built while learning Dart and Flutter
 ### 5. Shopping List
 
 <!-- Add your empty-list screenshot here -->
-![](Screenshot/Show a list.png)
+![](https://github.com/NKBelie/Shopping_list/blob/main/Screenshot/Show%20a%20list.png)
 
 ## Features
 
