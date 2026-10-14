@@ -149,11 +149,6 @@ To display screenshots in this README:
 3. Save the images using the filenames listed in the Screenshots section.
 4. Commit and push the images along with `README.md` to GitHub.
 
-For example, to display an image stored at `screenshots/main-screen.png`:
-
-```markdown
-![Main Screen](screenshots/main-screen.png)
-```
 
 GitHub will display the image when the file exists at the specified relative path.
 
