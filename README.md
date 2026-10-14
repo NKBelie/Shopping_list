@@ -7,32 +7,32 @@ A simple Flutter shopping list application built while learning Dart and Flutter
 ### 1. Main Screen
 
 <!-- Add your main screen screenshot here -->
-![Main Screen](screenshot/Phone Screen.png)
-![Main Screen](screenshot/Warmup.png)
-![Main Screen](screenshot/cancel.png)
-![Main Screen](screenshot/Hello.png)
-![Main Screen](screenshot/own widgets.png)
+![](Screenshot/Phone Screen.png)
+![](Screenshot/Warmup.png)
+![](Screenshot/cancel.png)
+![](Screenshot/Hello.png)
+![](Screenshot/own widgets.png)
 
 ### 2. Adding an Item
 
 <!-- Add your add-item screenshot here -->
-![Adding an Item](screenshot/Make it React.png)
-![Adding an Item](screenshot/Type your own items.png)
+![](Screenshot/Make it React.png)
+![](Screenshot/Type your own items.png)
 
 ### 3. Item Marked as Bought
 
 <!-- Add your bought-item screenshot here -->
-![Item Marked as Bought](screenshot/Mark as Bought.png)
+![](Screenshot/Mark as Bought.png)
 
 ### 4. Deleting an Item
 
 <!-- Add your delete-item screenshot here -->
-![Deleting an Item](screenshot/Delete.png)
+![](Screenshot/Delete.png)
 
 ### 5. Shopping List
 
 <!-- Add your empty-list screenshot here -->
-![Empty Shopping List](screenshot/Show a list.png)
+![](Screenshot/Show a list.png)
 
 ## Features
 
